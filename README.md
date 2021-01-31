@@ -1,5 +1,8 @@
-# Git-For-Freshers
-A repository with a bunch of simple tasks to help guide beginners about open-source
+  <h1 align="center">Git-For-Freshers</h1>
+<img src="./images/main.png" />
+<p align="center">A repository with a bunch of simple tasks to help guide beginners about open-source  </p>
+
+<hr />
 
 #### Facing any difficulties with the task assigned to you? You can the pen below for reference
 <pre>

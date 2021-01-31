@@ -1,6 +1,11 @@
 # Git-For-Freshers
 A repository with a bunch of simple tasks to help guide beginners about open-source
 
+#### Facing any difficulties with the task assigned to you? You can the pen below for reference
+<pre>
+<a href="https://codepen.io/ishandeveloper/pen/wvoBPxy">codepen.io/ishandeveloper/pen/wvoBPxy</a>
+</pre>
+
 ## How To Contribute?
 It's very easy. You don't need to be an expert in coding and programming.
 

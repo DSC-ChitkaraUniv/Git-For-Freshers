@@ -38,3 +38,10 @@ body{
   background:#000000;
   border-radius: 50% / 100% 100% 0 0;
 }
+#triangle-up{
+  width:0px;
+  height:0px;
+  border-left:60px solid transparent;
+  border-right:60px solid transparent;
+  border-bottom:120px solid green;
+}

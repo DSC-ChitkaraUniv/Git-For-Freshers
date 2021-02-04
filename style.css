@@ -32,3 +32,9 @@ body{
   color:#0000ff;
   border-radius:50%;
 }
+#semicircle{
+  width:120px;
+  height:60px;
+  background:#000000;
+  border-radius: 50% / 100% 100% 0 0;
+}

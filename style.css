@@ -45,3 +45,23 @@ body{
   border-right:60px solid transparent;
   border-bottom:120px solid green;
 }
+
+#diamond{
+      width: 0;
+      height: 0;
+      border: 50px solid transparent;
+      border-bottom-color: #e6165d;
+      position: relative;
+      top: -50px;
+}
+
+#diamond:after{
+      content: '';
+      position: absolute;
+      left: -50px;
+      top: 50px;
+      width: 0;
+      height: 0;
+      border: 50px solid transparent;
+      border-top-color: #e6165d;
+}

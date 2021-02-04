@@ -32,3 +32,10 @@ body{
   color:#0000ff;
   border-radius:50%;
 }
+#triangle-up{
+  width:0px;
+  height:0px;
+  border-left:60px solid transparent;
+  border-right:60px solid transparent;
+  border-bottom:120px solid green;
+}
